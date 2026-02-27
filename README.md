@@ -74,16 +74,6 @@ Para más información, consulta el archivo `LICENSE`.
 
 ---
 
-## ❤️ Donaciones
-
-Si quieres apoyar el desarrollo de este proyecto, puedes hacerlo aquí:
-
-👉 https://donate.stripe.com/9B68wQeyidMqgsz0yC8g001
-
-Tu apoyo permite seguir mejorando la herramienta y añadir nuevas funcionalidades 🚀
-
----
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas y apreciadas.
@@ -95,19 +85,28 @@ Las contribuciones son bienvenidas y apreciadas.
 
 ---
 
-## 📌 Autor
+## 📌 Créditos
 
-Proyecto desarrollado de forma independiente.
+Desarrollado por **[@derekjunior](https://github.com/derekjunior)**
 
 ---
 
-## 🚀 Estado del Proyecto
+## 🟢 Estado del Proyecto
 
-🟢 En desarrollo activo  
-🔄 Mejoras continuas y nuevas funciones en camino  
+En desarrollo activo con mejoras continuas y nuevas funciones en camino.
 
 ---
 
 ## 💡 Uso Responsable
 
 Utiliza esta herramienta de manera ética y conforme a las normas de las plataformas donde la emplees.
+
+---
+
+## 💖 DONAR
+
+Si te gusta el proyecto y quieres apoyarlo, puedes donar aquí:
+
+[![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/9B68wQeyidMqgsz0yC8g001)
+
+> Tu apoyo permite mantener y mejorar **AutokeyclickerX V1**, agregando nuevas funciones y mejoras 🚀
